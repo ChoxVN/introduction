@@ -10,7 +10,7 @@ Well, I don't know why but if there's one reason why this exist, then it should 
 # 🎯 The goal
 Apart of submissions, I tend to dump some codes in here. Maybe I can do some contribution, but most of the time, I won't do it :)
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ChoxVN) 
 
 # 💻 Tech Stack:
