@@ -1,4 +1,6 @@
 # Introduction
+<img width="1191" height="670" alt="wp9937497" src="https://github.com/user-attachments/assets/49e11eaa-31c4-4a9e-846b-f06aea3b170e" />
+
 # 💫 About Me:
 Hello, I'm Chox, an (unprofessional) Youtuber, a graphic designer. I do coding as well, but still a noob :D
 
