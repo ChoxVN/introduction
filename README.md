@@ -1,4 +1,4 @@
-# cool-things
+# Introduction
 # 💫 About Me:
 Hello, I'm Chox, an (unprofessional) Youtuber, a graphic designer. I do coding as well, but still a noob :D
 
