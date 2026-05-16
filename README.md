@@ -1,16 +1,24 @@
-# Introduction
-<img width="1191" height="670" alt="wp9937497" src="https://github.com/user-attachments/assets/49e11eaa-31c4-4a9e-846b-f06aea3b170e" />
+## Hello there, I'm Chox 👋
 
-# 💫 About Me:
-Hello, I'm Chox, an (unprofessional) Youtuber, a graphic designer. I do coding as well, but still a noob :D
+<img width="1191" height="670" alt="wp9937497" src="<img width="1191" height="670" alt="Untitled-1" src="https://github.com/user-attachments/assets/f49f53c2-ed1b-4820-b6a9-8fb6ab79fa25" />
+" />
 
-# 🤔 Why is this account exist?
-Well, I don't know why but if there's one reason why this exist, then it should be for submission.
+# A bit about me 🤔
+<li> 📹 I'm a YouTuber who runs a channel with nearly 2.100 subscribers 
+<li> 🖌️ I have learned Photoshop, Autodesk Maya and video editing tools for 4 years 
+<li> 💻 A newbie in coding, I do interested in it but don't know how to do coding 
+<li> 😄 I'm a chill person, so if you like talking to me, feel free to talk
 
-# 🎯 The goal
-Apart of submissions, I tend to dump some codes in here. Maybe I can do some contribution, but most of the time, I won't do it :)
+# Fun fact
+<li> I start making YouTube video since 2016, when I was a kid
+<li> I've been collecting memorabilia for a year, never regret it
+<li> I've been on several English competitions back in school
+<li> Sometime if I have nothing to do, I do graphics or simply read books
+
 
 # 🌐 Socials:
+I run a YouTube channel, click below to see the channel :)
+
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ChoxVN) 
 
 # 💻 Tech Stack:
