@@ -9,7 +9,7 @@
 <li> 💻 A newbie in coding, I do interested in it but don't know how to do coding 
 <li> 😄 I'm a chill person, so if you like talking to me, feel free to talk
 
-# Fun fact
+# Fun fact 🙂
 <li> I start making YouTube video since 2016, when I was a kid
 <li> I've been collecting memorabilia for a year, never regret it
 <li> I've been on several English competitions back in school
