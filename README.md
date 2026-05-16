@@ -1,4 +1,4 @@
-<h2></h2> Hello there, I'm Chox 👋
+# Hello there, I'm Chox 👋
 
 <img width="1191" height="670" alt="Untitled-1" src="https://github.com/user-attachments/assets/f49f53c2-ed1b-4820-b6a9-8fb6ab79fa25" />
 " />
