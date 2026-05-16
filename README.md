@@ -4,6 +4,7 @@
 
 # A bit about me 🤔
 <li> 📹 I'm a YouTuber who runs a channel with nearly 2.100 subscribers 
+<li> 📚 I'm a university student learning Business Administration
 <li> 🖌️ I have learned Photoshop, Autodesk Maya and video editing tools for 4 years 
 <li> 💻 A newbie in coding, I do interested in it but don't know how to do coding 
 <li> 😄 I'm a chill person, so if you like talking to me, feel free to talk
